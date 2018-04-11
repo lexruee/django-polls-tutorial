@@ -1,4 +1,4 @@
-# Simple Django Blog Example
+# Django Polls Example
 
 ## Create virtualenv
 
@@ -41,12 +41,7 @@ pip install Django
 ## Startpage
 
 ```
-http://localhost:8000
-```
-or
-
-```
-http://localhost:8000/blog
+http://localhost:8000/polls
 ```
 
 
